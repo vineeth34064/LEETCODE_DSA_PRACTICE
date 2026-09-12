@@ -7,14 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -23,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
