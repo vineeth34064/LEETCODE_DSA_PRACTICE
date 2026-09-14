@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
