@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
+| [3498-reverse-degree-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
