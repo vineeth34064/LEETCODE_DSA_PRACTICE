@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -79,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
