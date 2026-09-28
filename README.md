@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0031-next-permutation) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
