@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
