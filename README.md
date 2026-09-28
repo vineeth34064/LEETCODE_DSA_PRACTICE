@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
