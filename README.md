@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
