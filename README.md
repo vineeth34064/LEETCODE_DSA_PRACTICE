@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
