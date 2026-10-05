@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
