@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2942-find-words-containing-character](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
