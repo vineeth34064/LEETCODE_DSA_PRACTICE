@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
+| [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -177,4 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
