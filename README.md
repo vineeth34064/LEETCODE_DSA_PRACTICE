@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0409-longest-palindrome) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
