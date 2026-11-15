@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1267-count-servers-that-communicate](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vineeth34064/LEETCODE_DSA_PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
